@@ -1,0 +1,33 @@
+.container{
+}
+
+.header{
+    min-height: 100px;
+    color: #fff;
+}
+
+.header a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.head-bg{
+    background: rgb(55, 123, 181);
+}
+
+.footer{
+    color: #fff;
+    min-height: 60px;
+}
+
+.footer-bg{
+    background: rgb(55, 123, 181);
+}
+
+.sidebar{
+    min-height: 400px;    
+}
+
+.main{
+    min-height: 600px;
+}
